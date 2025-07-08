@@ -1,7 +1,7 @@
 # 📄 Streamlit PDF Chat App
 
 ## Overview
-The **Streamlit PDF Chat App** enables users to upload multiple PDFs or text files and interact with them using AI-powered conversation. Built using **LangChain**, **FAISS**, **Google Gemini AI**, and **Streamlit**, this application processes documents, extracts text, and provides intelligent responses based on user queries.
+The **Streamlit PDF Chat App** enables users to upload multiple PDFs or text files and interact with them using AI-powered conversation. Built using **LangChain**, **FAISS**, **Deepseek R1**, and **Streamlit**, this application processes documents, extracts text, and provides intelligent responses based on user queries.
 
 ## Features
 ✅ **Chat with PDFs** – Upload multiple documents and extract meaningful insights.  
