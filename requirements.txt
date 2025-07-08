@@ -1,9 +1,8 @@
 langchain
 python-dotenv
 langchain-community
-langchain_google_genai
+langchain-openai
 streamlit
 PyPDF2
-sentence-transformers
 faiss-cpu
-
+sentence-transformers
